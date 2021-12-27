@@ -1,0 +1,1918 @@
+SYMPTOM,COUNT,ASSIGNED_GROUP,SEVERITY_LEVEL
+Aspiration bursa,5,Abcess,MILD
+Aspiration pleural cavity,20,Abcess,MILD
+Aspiration,25,Abcess,MILD
+Mass,60,Abcess,MILD
+Staphylococcal sepsis,5,Sepsis,SEVERE
+Staphylococcal infection,15,Abcess,MILD
+Neck mass,10,Abcess,MILD
+Skin mass,5,Abcess,MILD
+Abscess limb,5,Abcess,MILD
+Abscess,10,Abcess,MILD
+Abscess neck,10,Abcess,MILD
+Abdomen crushing,5,Abdominal Pain/Discomfort,MILD
+Abdominal wall oedema,5,Abdominal Pain/Discomfort,MILD
+Abdominal tenderness,5,Abdominal Pain/Discomfort,MILD
+Abdominal rigidity,5,Abdominal Pain/Discomfort,MILD
+Abdominal lymphadenopathy,5,Abdominal Pain/Discomfort,MILD
+Abdominal injury,5,Abdominal Pain/Discomfort,MILD
+Abdominal pain lower,95,Abdominal Pain/Discomfort,MILD
+Abdominal distension,190,Abdominal Pain/Discomfort,MILD
+Abdominal discomfort,830,Abdominal Pain/Discomfort,MILD
+Abdominal pain upper,1000,Abdominal Pain/Discomfort,MILD
+Abdominal pain,1300,Abdominal Pain/Discomfort,MILD
+Ascites,15,Abdominal Pain/Discomfort,MILD
+Retroperitoneal haemorrhage,10,Abdominal Pain/Discomfort,MILD
+Abnormal dreams,80,Abnormal Dreams,MILD
+Hyperhidrosis,505,Abnormal Excessive Sweating,MILD
+Atrial septal defect,5,Abnormal Heart Rhythm,MODERATE
+Atrial fibrillation,385,Abnormal Heart Rhythm,MODERATE
+Bradycardia foetal,5,Abnormal Heart Rhythm,MODERATE
+Bradycardia,90,Abnormal Heart Rhythm,MODERATE
+Cardiac fibrillation,5,Abnormal Heart Rhythm,MODERATE
+Cardiac monitoring abnormal,5,Abnormal Heart Rhythm,MODERATE
+Cardiovascular disorder,5,Abnormal Heart Rhythm,MODERATE
+Cardioversion,30,Abnormal Heart Rhythm,MODERATE
+Catheterisation cardiac abnormal,10,Abnormal Heart Rhythm,MODERATE
+Catheterisation cardiac,25,Abnormal Heart Rhythm,MODERATE
+Heart valve incompetence,5,Abnormal Heart Rhythm,MODERATE
+Heart rate irregular,30,Abnormal Heart Rhythm,MODERATE
+Heart rate decreased,55,Abnormal Heart Rhythm,MODERATE
+Heart rate,120,Abnormal Heart Rhythm,MODERATE
+Heart rate increased,545,Abnormal Heart Rhythm,MODERATE
+Myocarditis,10,Abnormal Heart Rhythm,MODERATE
+Palpitations,490,Abnormal Heart Rhythm,MODERATE
+Arrhythmia supraventricular,5,Abnormal Heart Rhythm,MODERATE
+Arrhythmia,120,Abnormal Heart Rhythm,MODERATE
+Tachycardia,445,Abnormal Heart Rhythm,MODERATE
+Deafness transitory,5,Alterred Hearing,MODERATE
+Deafness bilateral,5,Alterred Hearing,MODERATE
+Deafness neurosensory,20,Alterred Hearing,MODERATE
+Deafness unilateral,45,Alterred Hearing,MODERATE
+Deafness,65,Alterred Hearing,MODERATE
+Speech disorder,125,Alterred Speech,MODERATE
+Aphasia,380,Alterred Speech,MODERATE
+Disorganised speech,15,Alterred Speech,MODERATE
+Dysarthria,55,Alterred Speech,MODERATE
+Dysphemia,5,Alterred Speech,MODERATE
+Communication disorder,30,Alterred Speech,MODERATE
+Altered visual depth perception,10,Alterred Vision,MODERATE
+Blindness unilateral,20,Alterred Vision,MODERATE
+Blindness transient,30,Alterred Vision,MODERATE
+Blindness,45,Alterred Vision,MODERATE
+Vision blurred,190,Alterred Vision,MODERATE
+Visual acuity reduced,5,Alterred Vision,MODERATE
+Visual field defect,10,Alterred Vision,MODERATE
+Visual impairment,80,Alterred Vision,MODERATE
+Vital functions abnormal,5,Alterred Vision,MODERATE
+Diplopia,30,Alterred Vision,MODERATE
+Anaphylactic shock,75,Anaphylactic reaction,MODERATE
+Anaphylactic reaction,650,Anaphylactic reaction,MODERATE
+Anaphylactoid reaction,15,Anaphylactic reaction,MODERATE
+Aneurysm ruptured,5,Aneurysm,SEVERE
+Aneurysm,10,Aneurysm,SEVERE
+Aortic dilatation,5,Aneurysm,SEVERE
+Aortic stenosis,5,Aneurysm,SEVERE
+Aortic valve incompetence,5,Aneurysm,SEVERE
+Aortic aneurysm,10,Aneurysm,SEVERE
+Aortic arteriosclerosis,10,Aneurysm,SEVERE
+Aortic aneurysm rupture,25,Aneurysm,SEVERE
+Chronic obstructive pulmonary disease,30,Aneurysm,SEVERE
+Deep vein thrombosis,140,Aneurysm,SEVERE
+Thrombosis,50,Aneurysm,SEVERE
+Anxiety,1210,Anxiety,MILD
+Appendicectomy,50,Appendicitis,SEVERE
+Appendicitis,40,Appendicitis,SEVERE
+Diet refusal,10,Appetite Decreased,MILD
+Food refusal,10,Appetite Decreased,MILD
+Decreased appetite,415,Appetite Decreased,MILD
+Arterial catheterisation normal,5,Arterial,SEVERE
+Arterial occlusive disease,5,Arterial,SEVERE
+Arterial disorder,10,Arterial,SEVERE
+Arteriosclerosis,10,Arterial,SEVERE
+Arteriospasm coronary,5,Arterial,SEVERE
+Arteriovenous fistula operation,5,Arterial,SEVERE
+Brachial artery entrapment syndrome,5,Arterial,SEVERE
+Brachiocephalic vein thrombosis,5,Arterial,SEVERE
+Carotid artery occlusion,5,Arterial,SEVERE
+Cerebral artery embolism,5,Arterial,SEVERE
+Cerebral artery occlusion,5,Arterial,SEVERE
+Cerebral artery stenosis,10,Arterial,SEVERE
+Coronary artery bypass,5,Arterial,SEVERE
+Coronary artery occlusion,10,Arterial,SEVERE
+Coronary artery disease,20,Arterial,SEVERE
+Peripheral nerve injury,5,Arterial,SEVERE
+Peripheral paralysis,5,Arterial,SEVERE
+Peripheral sensory neuropathy,5,Arterial,SEVERE
+Peripheral coldness,60,Arterial,SEVERE
+Peripheral swelling,430,Arterial,SEVERE
+Retinal artery thrombosis,5,Arterial,SEVERE
+Back injury,15,Back pain,MILD
+Back pain,1185,Back pain,MILD
+Spinal pain,20,Back pain,MILD
+Blood glucose increased,250,Blood Glucose Increased,MILD
+Haematochezia,35,Blood in Feces,MODERATE
+Blood pressure systolic abnormal,5,Blood Pressure Change,MILD
+Blood pressure orthostatic normal,5,Blood Pressure Change,MILD
+Blood pressure immeasurable,5,Blood Pressure Change,MILD
+Blood pressure systolic decreased,5,Blood Pressure Change,MILD
+Blood pressure diastolic decreased,5,Blood Pressure Change,MILD
+Blood pressure decreased,210,Blood Pressure Change,MILD
+Blood pressure systolic increased,5,Blood Pressure Change,MILD
+Blood pressure diastolic increased,5,Blood Pressure Change,MILD
+Blood pressure increased,1225,Blood Pressure Change,MILD
+Body temperature decreased,35,Body Temperature Decreased,MILD
+Bone pain,120,Bone Pain,MILD
+Ventricular hypokinesia,5,Brain Function,SEVERE
+Ventricular drainage,5,Brain Function,SEVERE
+Ventricular fibrillation,15,Brain Function,SEVERE
+Ventricular tachycardia,20,Brain Function,SEVERE
+Ventricular extrasystoles,30,Brain Function,SEVERE
+Brain herniation,10,Brain Function,SEVERE
+Cerebellar infarction,5,Brain Function,SEVERE
+Cerebellar stroke,5,Brain Function,SEVERE
+Cerebral ischaemia,5,Brain Function,SEVERE
+Cerebral atrophy,5,Brain Function,SEVERE
+Cerebral microhaemorrhage,5,Brain Function,SEVERE
+Cerebral venous sinus thrombosis,5,Brain Function,SEVERE
+Cerebral thrombosis,10,Brain Function,SEVERE
+Cerebral infarction,15,Brain Function,SEVERE
+Cerebral haemorrhage,70,Brain Function,SEVERE
+Encephalopathy,20,Brain Function,SEVERE
+Brain death,5,Brain Function - Severe,SEVERE
+Brain operation,5,Brain Function - Severe,SEVERE
+Breast inflammation,5,Breast discomfort,MILD
+Breast tenderness,5,Breast discomfort,MILD
+Breast mass,5,Breast discomfort,MILD
+Breast discomfort,5,Breast discomfort,MILD
+Breast engorgement,10,Breast discomfort,MILD
+Breast swelling,20,Breast discomfort,MILD
+Breast pain,90,Breast discomfort,MILD
+Contusion,185,Bruising,MILD
+Haematoma,15,Bruising,MILD
+Cardiac arrest,315,Cardiac arrest,SEVERE
+Cataract,5,Cataract,MODERATE
+Cellulitis,425,Cellulitis,MILD
+Angina pectoris,85,Chest Discomfort,MILD
+Cardiac discomfort,10,Chest Discomfort,MILD
+Chest injury,10,Chest Discomfort,MILD
+Chest pain,950,Chest Discomfort,MILD
+Chest discomfort,1550,Chest Discomfort,MILD
+Musculoskeletal chest pain,10,Chest Discomfort,MILD
+Pericarditis,35,Chest Discomfort,MILD
+Pericoronitis,5,Chest Discomfort,MILD
+Mastication disorder,35,Chewing discomfort,MILD
+Chills,12115,Chills,MILD
+Cold sweat,310,Chills,MILD
+Feeling jittery,35,Chills,MILD
+Feeling cold,275,Chills,MILD
+Freezing phenomenon,5,Chills,MILD
+Choking sensation,5,Choking Sensation,MILD
+Choking,15,Choking Sensation,MILD
+Clumsiness,10,Clumsiness,MILD
+Constipation,70,Constipation,MILD
+Coordination abnormal,20,Coordination dysfunction,MILD
+Fine motor skill dysfunction,15,Coordination dysfunction,MILD
+Hand-eye coordination impaired,5,Coordination dysfunction,MILD
+Impaired work ability,275,Coordination dysfunction,MILD
+Motor dysfunction,20,Coordination dysfunction,MILD
+Movement disorder,10,Coordination dysfunction,MILD
+Cough,1085,Cough,MILD
+Productive cough,55,Cough,MILD
+Upper-airway cough syndrome,35,Cough,MILD
+Condition aggravated,805,Current Medical Condition Aggravated,MODERATE
+Dehydration,65,Dehydration,MILD
+Electrolyte imbalance,15,Dehydration,MILD
+Thirst,40,Dehydration,MILD
+Cognitive disorder,45,Delirium,MILD
+Confusional state,255,Delirium,MILD
+Delirium,35,Delirium,MILD
+Delusion,5,Delirium,MILD
+Disorientation,145,Delirium,MILD
+Disturbance in attention,90,Delirium,MILD
+Feeling drunk,10,Delirium,MILD
+Impaired driving ability,35,Delirium,MILD
+Mental impairment,25,Delirium,MILD
+Mental status changes,75,Delirium,MILD
+Thinking abnormal,20,Delirium,MILD
+Dental discomfort,5,Dental Discomfort,MILD
+Gingival disorder,5,Dental Discomfort,MILD
+Gingival pain,5,Dental Discomfort,MILD
+Gingival bleeding,10,Dental Discomfort,MILD
+Gingival swelling,10,Dental Discomfort,MILD
+Gingivitis,5,Dental Discomfort,MILD
+Hypoaesthesia teeth,5,Dental Discomfort,MILD
+Toothache,35,Dental discomfort,MILD
+Diarrhoea,1450,Diarrhea,MILD
+Faeces soft,5,Diarrhea,MILD
+Dysstasia,105,Difficulty standing,MILD
+Dysphagia,380,Difficulty swallowing,MILD
+Odynophagia,25,Difficulty swallowing,MILD
+Gait disturbance,150,Difficulty walking,MILD
+Gait inability,85,Difficulty walking,MILD
+Dry mouth,165,Dry Mouth,MILD
+Tongue dry,5,Dry Mouth,MILD
+Dry throat,65,Dry Mouth,MILD
+Dry skin,50,Dry Skin,MILD
+Ear pruritus,45,Ear Itch/Pain/Discomfort,MILD
+Ear infection,10,Ear Itch/Pain/Discomfort,MILD
+Ear congestion,15,Ear Itch/Pain/Discomfort,MILD
+Ear discomfort,100,Ear Itch/Pain/Discomfort,MILD
+Ear pain,215,Ear Itch/Pain/Discomfort,MILD
+External ear disorder,5,Ear Itch/Pain/Discomfort,MILD
+External ear pain,5,Ear Itch/Pain/Discomfort,MILD
+Ear swelling,40,Ear Itch/Pain/Discomfort,MILD
+Tinnitus,250,Ear Ringing,MILD
+Eye discharge,25,Eye Discharge,MILD
+Eye haemorrhage,40,Eye Discharge,MILD
+Eyelid margin crusting,10,Eye Discharge,MILD
+Lacrimation increased,35,Eye Discharge,MILD
+Retinal haemorrhage,5,Eye Discharge,MILD
+Retinal deposits,5,Eye Discharge,MILD
+Tearfulness,10,Eye Discharge,MILD
+Dry eye,35,Eye Discomfort/Irritation,MILD
+Ocular icterus,5,Eye Discomfort/Irritation,MILD
+Ocular discomfort,10,Eye Discomfort/Irritation,MILD
+Ocular hyperaemia,40,Eye Discomfort/Irritation,MILD
+Retinal tear,5,Eye Discomfort/Irritation,MILD
+Abnormal sensation in eye,35,Eye Discomfort/Irritation,MILD
+Eye irritation,75,Eye Discomfort/Irritation,MILD
+Eye pruritus,160,Eye Discomfort/Irritation,MILD
+Eyelids pruritus,10,Eye Discomfort/Irritation,MILD
+Eye contusion,5,Eye Discomfort/Irritation,MILD
+Eye disorder,15,Eye Discomfort/Irritation,MILD
+Eye pain,170,Eye Discomfort/Irritation,MILD
+Eyelid ptosis,5,Eye Discomfort/Irritation,MILD
+Eyelid pain,5,Eye Discomfort/Irritation,MILD
+Eyelid oedema,5,Eye Discomfort/Irritation,MILD
+Eyelid irritation,5,Eye Discomfort/Irritation,MILD
+Eyelid disorder,20,Eye Discomfort/Irritation,MILD
+Eye oedema,5,Eye Discomfort/Irritation,MILD
+Erythema of eyelid,15,Eye Discomfort/Irritation,MILD
+Retinal vein occlusion,10,Eye Discomfort/Irritation,MILD
+Hypoaesthesia eye,10,Eye Discomfort/Irritation,MILD
+Eye inflammation,5,Eye Discomfort/Irritation,MILD
+Eye swelling,185,Eye Discomfort/Irritation,MILD
+Periorbital swelling,65,Eye Discomfort/Irritation,MILD
+Swelling of eyelid,35,Eye Discomfort/Irritation,MILD
+Conjunctivitis,20,Eye Discomfort/Irritation,MILD
+Eye movement disorder,40,Eye Function,MODERATE
+Eyelid function disorder,45,Eye Function,MODERATE
+Blepharospasm,40,Eye Spasms,MILD
+Face injury,20,Facial Irritation/Discomfort,MILD
+Facial neuralgia,5,Facial Irritation/Discomfort,MILD
+Facial bones fracture,5,Facial Irritation/Discomfort,MILD
+Facial discomfort,10,Facial Irritation/Discomfort,MILD
+Facial pain,45,Facial Irritation/Discomfort,MILD
+Face oedema,20,Facial Irritation/Discomfort,MILD
+Facial spasm,5,Facial Irritation/Discomfort,MILD
+Swelling face,260,Facial Irritation/Discomfort,MILD
+Bell's palsy,200,Facial Paralysis,MODERATE
+Facial nerve disorder,5,Facial Paralysis,MODERATE
+Facial asymmetry,10,Facial Paralysis,MODERATE
+Facial paresis,40,Facial Paralysis,MODERATE
+Facial paralysis,425,Facial Paralysis,MODERATE
+Fatigue,4950,Fatigue,MILD
+Hypersomnia,65,Fatigue,MILD
+Somnolence,195,Fatigue,MILD
+Feeling abnormal,625,Feeling Abnormal,MILD
+Body temperature abnormal,35,Fever,MILD
+Body temperature,695,Fever,MILD
+Body temperature increased,1240,Fever,MILD
+Pyrexia,3860,Fever,MILD
+Sweating fever,5,Fever,MILD
+Flatulence,30,Flatulence,MILD
+Influenza like illness,210,Flu Symptoms,MILD
+Flushing,625,Flushing,MILD
+Discomfort,285,General Pain/Discomfort,MILD
+Pain,2820,General Pain/Discomfort,MILD
+Malaise,620,General Pain/Discomfort,MILD
+Haemorrhage,40,Haemorrhage,MILD
+Haemorrhagic varicella syndrome,5,Haemorrhage,MILD
+Alopecia areata,5,Hair Loss,MILD
+Alopecia,40,Hair Loss,MILD
+Hallucination,25,Hallucination,MILD
+"Hallucination, visual",5,Hallucination,MILD
+"Hallucination, auditory",10,Hallucination,MILD
+Acute myocardial infarction,180,Heart Attack,SEVERE
+Atrioventricular block first degree,5,Heart Attack,SEVERE
+Atrioventricular block complete,5,Heart Attack,SEVERE
+Atrioventricular block,20,Heart Attack,SEVERE
+Cardiac death,10,Heart Attack,SEVERE
+Cardiac failure acute,25,Heart Attack,SEVERE
+Cardiac failure congestive,30,Heart Attack,SEVERE
+Cardiac flutter,35,Heart Attack,SEVERE
+Cardiac failure,35,Heart Attack,SEVERE
+Cardiac disorder,35,Heart Attack,SEVERE
+Cardiogenic shock,5,Heart Attack,SEVERE
+Chronic left ventricular failure,5,Heart Attack,SEVERE
+Myocardial necrosis marker increased,10,Heart Attack,SEVERE
+Myocardial necrosis marker,10,Heart Attack,SEVERE
+Myocardial infarction,70,Heart Attack,SEVERE
+Hypertension,240,High blood pressure,MODERATE
+Hypertensive emergency,5,High blood pressure,MODERATE
+Hypertensive urgency,5,High blood pressure,MODERATE
+Accelerated hypertension,5,High blood pressure,MODERATE
+Angioedema,285,Hives,MILD
+Dysphonia,135,Hoarse Voice,MILD
+Feeling hot,565,Hot Flashes,MILD
+Hot flush,165,Hot Flashes,MILD
+Hypersensitivity,185,Hypersensitivity,MILD
+Hyperventilation,15,Hyperventilation,MILD
+Dyspepsia,95,Indigestion,MILD
+Inflammation,90,Inflammation/Swelling,MILD
+Oedema,55,Inflammation/Swelling,MILD
+Oedema peripheral,105,Inflammation/Swelling,MILD
+Skin swelling,25,Inflammation/Swelling,MILD
+Swelling,315,Inflammation/Swelling,MILD
+Blister,180,Injection Site Irritation/Discomfort,MILD
+Vaccination site bruising,10,Injection Site Irritation/Discomfort,MILD
+Burning sensation,610,Injection Site Irritation/Discomfort,MILD
+Limb mass,10,Injection Site Irritation/Discomfort,MILD
+Limb injury,20,Injection Site Irritation/Discomfort,MILD
+Limb discomfort,160,Injection Site Irritation/Discomfort,MILD
+Vaccination site discomfort,25,Injection Site Irritation/Discomfort,MILD
+Vaccination site induration,25,Injection Site Irritation/Discomfort,MILD
+Administration site joint movement impairment,5,Injection Site Irritation/Discomfort,MILD
+Injected limb mobility decreased,265,Injection Site Irritation/Discomfort,MILD
+Vaccination site joint movement impairment,5,Injection Site Irritation/Discomfort,MILD
+Vaccination site movement impairment,10,Injection Site Irritation/Discomfort,MILD
+Agitation,100,Injection Site Irritation/Discomfort,MILD
+Injection site discharge,5,Injection Site Irritation/Discomfort,MILD
+Injection site indentation,5,Injection Site Irritation/Discomfort,MILD
+Injection site infection,5,Injection Site Irritation/Discomfort,MILD
+Injection site joint swelling,5,Injection Site Irritation/Discomfort,MILD
+Injection site macule,5,Injection Site Irritation/Discomfort,MILD
+Injection site muscle weakness,5,Injection Site Irritation/Discomfort,MILD
+Injection site pustule,5,Injection Site Irritation/Discomfort,MILD
+Injection site scab,5,Injection Site Irritation/Discomfort,MILD
+Injection site haematoma,10,Injection Site Irritation/Discomfort,MILD
+Injection site abscess,10,Injection Site Irritation/Discomfort,MILD
+Injection site movement impairment,10,Injection Site Irritation/Discomfort,MILD
+Injection site dryness,10,Injection Site Irritation/Discomfort,MILD
+Injection site extravasation,10,Injection Site Irritation/Discomfort,MILD
+Injection site hypersensitivity,15,Injection Site Irritation/Discomfort,MILD
+Injection site haemorrhage,20,Injection Site Irritation/Discomfort,MILD
+Injection site joint pain,20,Injection Site Irritation/Discomfort,MILD
+Injection site oedema,25,Injection Site Irritation/Discomfort,MILD
+Injection site vesicles,25,Injection Site Irritation/Discomfort,MILD
+Injection site lymphadenopathy,25,Injection Site Irritation/Discomfort,MILD
+Injection site irritation,25,Injection Site Irritation/Discomfort,MILD
+Injection site paraesthesia,35,Injection Site Irritation/Discomfort,MILD
+Injection site nodule,55,Injection Site Irritation/Discomfort,MILD
+Injection site inflammation,55,Injection Site Irritation/Discomfort,MILD
+Injection site hypoaesthesia,60,Injection Site Irritation/Discomfort,MILD
+Injection site discolouration,115,Injection Site Irritation/Discomfort,MILD
+Injection site discomfort,115,Injection Site Irritation/Discomfort,MILD
+Injection site mass,115,Injection Site Irritation/Discomfort,MILD
+Injection site urticaria,145,Injection Site Irritation/Discomfort,MILD
+Injection site cellulitis,155,Injection Site Irritation/Discomfort,MILD
+Injection site bruising,210,Injection Site Irritation/Discomfort,MILD
+Injection site induration,315,Injection Site Irritation/Discomfort,MILD
+Injection site reaction,390,Injection Site Irritation/Discomfort,MILD
+Injection site warmth,495,Injection Site Irritation/Discomfort,MILD
+Injection site pruritus,540,Injection Site Irritation/Discomfort,MILD
+Injection site rash,560,Injection Site Irritation/Discomfort,MILD
+Injection site swelling,630,Injection Site Irritation/Discomfort,MILD
+Injection site pain,1925,Injection Site Irritation/Discomfort,MILD
+Injection site erythema,5800,Injection Site Irritation/Discomfort,MILD
+Vaccination site irritation,5,Injection Site Irritation/Discomfort,MILD
+Vaccination site infection,5,Injection Site Irritation/Discomfort,MILD
+Vaccination site haemorrhage,5,Injection Site Irritation/Discomfort,MILD
+Vaccination site discolouration,5,Injection Site Irritation/Discomfort,MILD
+Vaccination site cellulitis,5,Injection Site Irritation/Discomfort,MILD
+Vaccination site pruritus,20,Injection Site Irritation/Discomfort,MILD
+Pain in extremity,2205,Injection Site Irritation/Discomfort,MILD
+Shoulder injury related to vaccine administration,10,Injection Site Irritation/Discomfort,MILD
+Vaccination site pain,400,Injection Site Irritation/Discomfort,MILD
+Application site haemorrhage,5,Injection Site Irritation/Discomfort,MILD
+Bullous haemorrhagic dermatosis,5,Injection Site Irritation/Discomfort,MILD
+Immediate post-injection reaction,350,Injection Site Irritation/Discomfort,MILD
+Vaccination site reaction,25,Injection Site Irritation/Discomfort,MILD
+Vaccination site rash,35,Injection Site Irritation/Discomfort,MILD
+Erythema marginatum,5,Injection Site Irritation/Discomfort,MILD
+Erythema multiforme,125,Injection Site Irritation/Discomfort,MILD
+Erythema,3025,Injection Site Irritation/Discomfort,MILD
+Vaccination site joint erythema,5,Injection Site Irritation/Discomfort,MILD
+Vaccination site erythema,165,Injection Site Irritation/Discomfort,MILD
+Administration site swelling,5,Injection Site Irritation/Discomfort,MILD
+Vaccination site inflammation,5,Injection Site Irritation/Discomfort,MILD
+Vaccination site swelling,60,Injection Site Irritation/Discomfort,MILD
+Skin warm,255,Injection Site Irritation/Discomfort,MILD
+Vaccination site warmth,65,Injection Site Irritation/Discomfort,MILD
+Insomnia,150,Insomnia,MILD
+"Sleep disorder due to general medical condition, insomnia type",5,Insomnia,MILD
+Sleep disorder,180,Insomnia,MILD
+Pruritus,1785,Itching,MILD
+Pain in jaw,100,Jaw Pain,MILD
+Facet joint syndrome,5,Joint Pain/Discomfort,MILD
+Joint vibration,5,Joint Pain/Discomfort,MILD
+Joint injury,5,Joint Pain/Discomfort,MILD
+Joint fluid drainage,5,Joint Pain/Discomfort,MILD
+Joint contracture,5,Joint Pain/Discomfort,MILD
+Joint swelling,50,Joint Pain/Discomfort,MILD
+Joint stiffness,55,Joint Pain/Discomfort,MILD
+Joint range of motion decreased,85,Joint Pain/Discomfort,MILD
+Arthralgia,7375,Joint Pain/Discomfort,MILD
+Arthritis bacterial,5,Joint Pain/Discomfort,MILD
+Arthritis,35,Joint Pain/Discomfort,MILD
+Arthrogram,5,Joint Pain/Discomfort,MILD
+Arthropathy,30,Joint Pain/Discomfort,MILD
+Bursitis,40,Joint Pain/Discomfort,MILD
+Rheumatoid arthritis,5,Joint Pain/Discomfort,MILD
+Renal impairment,5,Kidney function,MODERATE
+Renal function test,5,Kidney function,MODERATE
+Renal disorder,5,Kidney function,MODERATE
+Renal cyst,5,Kidney function,MODERATE
+Renal artery arteriosclerosis,5,Kidney function,MODERATE
+Renal function test abnormal,5,Kidney function,MODERATE
+Renal tubular necrosis,5,Kidney function,MODERATE
+Renal failure,10,Kidney function,MODERATE
+Renal mass,10,Kidney function,MODERATE
+Renal pain,15,Kidney function,MODERATE
+Acute kidney injury,200,Kidney function,MODERATE
+Chronic kidney disease,5,Kidney function,MODERATE
+Kidney infection,5,Kidney function,MODERATE
+Lethargy,175,Lethargy,MILD
+Slow response to stimuli,5,Lethargy,MILD
+Sluggishness,25,Lethargy,MILD
+Presyncope,95,Light headed,MILD
+Photophobia,55,Light sensitivity,MILD
+Lip discolouration,5,Lip swelling/irritation,MILD
+Lip disorder,5,Lip swelling/irritation,MILD
+Lip dry,5,Lip swelling/irritation,MILD
+Lip injury,5,Lip swelling/irritation,MILD
+Lip blister,15,Lip swelling/irritation,MILD
+Lip oedema,25,Lip swelling/irritation,MILD
+Lip pruritus,35,Lip swelling/irritation,MILD
+Lip swelling,335,Lip swelling/irritation,MILD
+Stomatitis,35,Lip swelling/irritation,MILD
+Consciousness fluctuating,5,Loss of Consciousness,MODERATE
+Depressed level of consciousness,35,Loss of Consciousness,MODERATE
+Syncope,290,Loss of Consciousness,MODERATE
+Unresponsive to stimuli,255,Loss of Consciousness,MODERATE
+Altered state of consciousness,35,Loss of Consciousness,MODERATE
+Loss of consciousness,270,Loss of Consciousness,MODERATE
+Sensory loss,40,Loss of Senses,MILD
+Anosmia,130,Loss of Smell,MILD
+Parosmia,25,Loss of Smell,MILD
+Aphonia,75,Loss of Voice,MILD
+Hypotension,105,Low Blood Pressure,MODERATE
+Hypothermia,15,Low Body Temperature,MILD
+Hypoxia,65,Low Oxygen,MODERATE
+Oxygen saturation decreased,110,Low Oxygen,MODERATE
+Lymphoedema,20,Lymph Node Pain/Swelling,MILD
+Lymph node abscess,5,Lymph Node Pain/Swelling,MILD
+Lymph node palpable,5,Lymph Node Pain/Swelling,MILD
+Lymph node pain,375,Lymph Node Pain/Swelling,MILD
+Lymphadenitis,25,Lymph Node Pain/Swelling,MILD
+Lymphadenopathy,1140,Lymph Node Pain/Swelling,MILD
+Axillary lymphadenectomy,5,Lymph Node Pain/Swelling,MILD
+Amnesia,110,Memory impairment,MODERATE
+Memory impairment,55,Memory impairment,MODERATE
+Cluster headache,10,Migraine/Headache,MILD
+Head titubation,10,Migraine/Headache,MILD
+Head injury,50,Migraine/Headache,MILD
+Head discomfort,90,Migraine/Headache,MILD
+Headache,5245,Migraine/Headache,MILD
+Migraine with aura,20,Migraine/Headache,MILD
+Migraine,285,Migraine/Headache,MILD
+Tension headache,15,Migraine/Headache,MILD
+Mobility decreased,320,Mobility decreased,MILD
+Irritability,35,Mood irritability,MILD
+Mood swings,10,Mood irritability,MILD
+Mood altered,10,Mood irritability,MILD
+Oral pruritus,40,Mouth Itch,MILD
+Mouth injury,5,Mouth pain/discomfort,MILD
+Mouth ulceration,5,Mouth pain/discomfort,MILD
+Mouth swelling,20,Mouth pain/discomfort,MILD
+Oral mucosal blistering,5,Mouth pain/discomfort,MILD
+Oral disorder,5,Mouth pain/discomfort,MILD
+Oral discomfort,20,Mouth pain/discomfort,MILD
+Oral mucosal eruption,5,Mouth pain/discomfort,MILD
+Oral pain,10,Mouth pain/discomfort,MILD
+Orchitis,5,Mouth pain/discomfort,MILD
+Oropharyngeal discomfort,60,Mouth pain/discomfort,MILD
+Oropharyngeal pain,355,Mouth pain/discomfort,MILD
+Oral mucosal erythema,5,Mouth pain/discomfort,MILD
+Oral herpes,50,Mouth pain/discomfort,MILD
+Paraesthesia oral,500,Mouth sensitivity,MILD
+Dyskinesia,75,Movement disorder,MILD
+Muscle tightness,75,Muscle Aches/Pain/Tightness,MILD
+Myalgia,1545,Muscle Aches/Pain/Tightness,MILD
+Polymyalgia rheumatica,5,Muscle Aches/Pain/Tightness,MILD
+Rhabdomyolysis,30,Muscle Aches/Pain/Tightness,MILD
+Muscle contracture,5,Muscle Aches/Pain/Tightness,MILD
+Muscle strain,10,Muscle Aches/Pain/Tightness,MILD
+Muscle atrophy,10,Muscle Aches/Pain/Tightness,MILD
+Muscle rigidity,15,Muscle Aches/Pain/Tightness,MILD
+Muscle disorder,15,Muscle Aches/Pain/Tightness,MILD
+Muscle discomfort,15,Muscle Aches/Pain/Tightness,MILD
+Musculoskeletal pain,10,Muscle Aches/Pain/Tightness,MILD
+Musculoskeletal disorder,15,Muscle Aches/Pain/Tightness,MILD
+Musculoskeletal discomfort,30,Muscle Aches/Pain/Tightness,MILD
+Musculoskeletal stiffness,245,Muscle Aches/Pain/Tightness,MILD
+Muscle fatigue,10,Muscle Aches/Pain/Tightness,MILD
+Muscular weakness,215,Muscle Aches/Pain/Tightness,MILD
+Muscle swelling,10,Muscle Aches/Pain/Tightness,MILD
+Accessory muscle,5,Muscle Aches/Pain/Tightness,MILD
+Muscle contractions involuntary,10,Muscle Spasms,MILD
+Muscle twitching,75,Muscle Spasms,MILD
+Muscle spasms,200,Muscle Spasms,MILD
+Tremor,585,Muscle Spasms,MILD
+Nasal congestion,130,Nasal Congestion,MILD
+Nasopharyngitis,55,Nasal Congestion,MILD
+Nasal odour,5,Nasal Discomfort,MILD
+Nasal injury,5,Nasal Discomfort,MILD
+Nasal disorder,5,Nasal Discomfort,MILD
+Nasal discomfort,10,Nasal Discomfort,MILD
+Discoloured vomit,5,Nausea/Vomiting,MILD
+Gastritis,5,Nausea/Vomiting,MILD
+Gastroenteritis viral,5,Nausea/Vomiting,MILD
+Gastrointestinal examination,5,Nausea/Vomiting,MILD
+Gastrointestinal hypomotility,5,Nausea/Vomiting,MILD
+Gastrointestinal sounds abnormal,5,Nausea/Vomiting,MILD
+Gastrointestinal tube insertion,10,Nausea/Vomiting,MILD
+Gastrointestinal tract irritation,10,Nausea/Vomiting,MILD
+Gastrointestinal disorder,15,Nausea/Vomiting,MILD
+Gastrointestinal haemorrhage,15,Nausea/Vomiting,MILD
+Gastrooesophageal reflux disease,25,Nausea/Vomiting,MILD
+Nausea,2525,Nausea/Vomiting,MILD
+Retching,45,Nausea/Vomiting,MILD
+Small intestinal obstruction,15,Nausea/Vomiting,MILD
+Vomiting,1325,Nausea/Vomiting,MILD
+Neck pain,320,Neck pain,MILD
+Neuralgia,75,Nerve pain,MILD
+Night sweats,125,Night sweats,MILD
+Nasal pruritus,15,Nose Itch,MILD
+Epistaxis,125,Nosebleed,MILD
+Hypoaesthesia oral,410,Oral discomfort,MILD
+Allodynia,20,Pain Sensitivity,MILD
+Pallor,130,Pale skin,MILD
+Pancreatic enlargement,5,Pancreatitis,SEVERE
+Pancreatitis acute,5,Pancreatitis,SEVERE
+Pancreatitis,15,Pancreatitis,SEVERE
+Paralysis,25,Paralysis,SEVERE
+Hemiparesis,40,Paralysis,SEVERE
+Lung hyperinflation,5,Pulmonary,SEVERE
+Lung neoplasm malignant,5,Pulmonary,SEVERE
+Lung disorder,10,Pulmonary,SEVERE
+Lung opacity,35,Pulmonary,SEVERE
+Lung infiltration,35,Pulmonary,SEVERE
+Lung abscess,5,Pulmonary,SEVERE
+Atelectasis,60,Pulmonary,SEVERE
+Pneumonia,145,Pulmonary,SEVERE
+Pulmonary thrombosis,5,Pulmonary,SEVERE
+Pulmonary hilar enlargement,5,Pulmonary,SEVERE
+Pulmonary mass,10,Pulmonary,SEVERE
+Pulmonary hypertension,15,Pulmonary,SEVERE
+Pulmonary congestion,25,Pulmonary,SEVERE
+Pulmonary pain,25,Pulmonary,SEVERE
+Pulmonary oedema,55,Pulmonary,SEVERE
+Pulmonary embolism,100,Pulmonary,SEVERE
+Angiogram pulmonary abnormal,85,Pulmonary,SEVERE
+Rash macular,90,Skin Rash,MILD
+Rash papular,90,Skin Rash,MILD
+Asthma,170,Respiratory distress,MODERATE
+Asthmatic crisis,5,Respiratory distress,MODERATE
+Acute respiratory distress syndrome,30,Respiratory distress,MODERATE
+Acute respiratory failure,65,Respiratory distress,MODERATE
+Adenovirus infection,10,Respiratory distress,MODERATE
+Agonal respiration,10,Respiratory distress,MODERATE
+Bronchitis,30,Respiratory distress,MODERATE
+Bronchoscopy abnormal,5,Respiratory distress,MODERATE
+Bronchospasm,35,Respiratory distress,MODERATE
+Cardio-respiratory distress,5,Respiratory distress,MODERATE
+Cardio-respiratory arrest,75,Respiratory distress,MODERATE
+Painful respiration,15,Respiratory distress,MODERATE
+Respiration abnormal,5,Respiratory distress,MODERATE
+Respiratory depression,5,Respiratory distress,MODERATE
+Respiratory syncytial virus test negative,10,Respiratory distress,MODERATE
+Respiratory rate increased,20,Respiratory distress,MODERATE
+Respiratory distress,25,Respiratory distress,MODERATE
+Respiratory viral panel,30,Respiratory distress,MODERATE
+Respiratory arrest,30,Respiratory distress,MODERATE
+Respiratory failure,55,Respiratory distress,MODERATE
+Respiratory tract congestion,100,Respiratory distress,MODERATE
+Tachypnoea,35,Respiratory distress,MODERATE
+Upper respiratory tract infection,15,Respiratory distress,MODERATE
+Dyspnoea at rest,5,Respiratory distress,MODERATE
+Dyspnoea exertional,70,Respiratory distress,MODERATE
+Dyspnoea,1530,Respiratory distress,MODERATE
+Restlessness,50,Restlessness,MILD
+Resuscitation,70,Resuscitation - reviving,SEVERE
+Rhinorrhoea,235,Runny Nose,MILD
+Epilepsy,5,Seizure,SEVERE
+Seizure like phenomena,25,Seizure,SEVERE
+Seizure,140,Seizure,SEVERE
+Sensation of foreign body,95,Sensation of foreign body,MILD
+Hypoaesthesia,1340,Sensitivity,MILD
+Hyperaesthesia,20,Sensitivity,MILD
+Sensory disturbance,30,Sensitivity,MILD
+Sepsis,40,Sepsis,SEVERE
+Skin discomfort,5,Skin Discomfort/Pain,MILD
+Skin exfoliation,5,Skin Discomfort/Pain,MILD
+Skin erosion,5,Skin Discomfort/Pain,MILD
+Skin disorder,10,Skin Discomfort/Pain,MILD
+Skin abrasion,10,Skin Discomfort/Pain,MILD
+Skin laceration,15,Skin Discomfort/Pain,MILD
+Skin lesion,25,Skin Discomfort/Pain,MILD
+Skin tightness,35,Skin Discomfort/Pain,MILD
+Skin burning sensation,35,Skin Discomfort/Pain,MILD
+Skin discolouration,40,Skin Discomfort/Pain,MILD
+Skin reaction,40,Skin Discomfort/Pain,MILD
+Pain of skin,65,Skin Discomfort/Pain,MILD
+Butterfly rash,5,Skin Rash,MILD
+Dermatitis psoriasiform,5,Skin Rash,MILD
+Dermatitis atopic,5,Skin Rash,MILD
+Dermatitis bullous,10,Skin Rash,MILD
+Dermatitis contact,10,Skin Rash,MILD
+Dermatitis exfoliative generalised,10,Skin Rash,MILD
+Dermatitis acneiform,15,Skin Rash,MILD
+Dermatitis,30,Skin Rash,MILD
+Dermatitis allergic,35,Skin Rash,MILD
+Dyshidrotic eczema,5,Skin Rash,MILD
+Eczema,5,Skin Rash,MILD
+Herpes simplex reactivation,5,Skin Rash,MILD
+Herpes zoster cutaneous disseminated,5,Skin Rash,MILD
+Herpes virus test,5,Skin Rash,MILD
+Herpes virus infection,5,Skin Rash,MILD
+Herpes ophthalmic,5,Skin Rash,MILD
+Herpes zoster oticus,10,Skin Rash,MILD
+Herpes simplex test negative,15,Skin Rash,MILD
+Herpes simplex,20,Skin Rash,MILD
+Herpes zoster,260,Skin Rash,MILD
+Petechiae,55,Skin Rash,MILD
+Rash erythematous,350,Skin Rash,MILD
+Rash,1650,Skin Rash,MILD
+Skin irritation,5,Skin Rash,MILD
+Skin induration,5,Skin Rash,MILD
+Urticaria,960,Skin Rash,MILD
+Rash pruritic,235,Skin Rash,MILD
+Skin hyperpigmentation,5,Skin Rash,MILD
+Paraesthesia,935,Skin sensitivity,MILD
+Sensitive skin,40,Skin sensitivity,MILD
+Sneezing,40,Sneezing,MILD
+Staring,25,Staring,MILD
+Haemorrhagic stroke,10,Stroke,SEVERE
+Cerebrovascular accident,370,Stroke,SEVERE
+Ageusia,690,Taste abnormal,MILD
+Dysgeusia,405,Taste abnormal,MILD
+Taste disorder,75,Taste Abnormal,MILD
+Tenderness,190,Tenderness,MILD
+Pharyngeal oedema,5,Throat Irritation/Discomfort,MILD
+Pharyngeal hypoaesthesia,35,Throat Irritation/Discomfort,MILD
+Pharyngeal paraesthesia,55,Throat Irritation/Discomfort,MILD
+Pharyngeal swelling,150,Throat Irritation/Discomfort,MILD
+Pharyngitis,5,Throat Irritation/Discomfort,MILD
+Throat lesion,5,Throat Irritation/Discomfort,MILD
+Throat clearing,35,Throat Irritation/Discomfort,MILD
+Throat tightness,295,Throat Irritation/Discomfort,MILD
+Throat irritation,300,Throat Irritation/Discomfort,MILD
+Tongue discomfort,20,Tongue Irritation/Discomfort/Swelling,MILD
+Tongue disorder,20,Tongue Irritation/Discomfort/Swelling,MILD
+Tongue oedema,5,Tongue Irritation/Discomfort/Swelling,MILD
+Tongue pruritus,40,Tongue Irritation/Discomfort/Swelling,MILD
+Tongue erythema,10,Tongue Irritation/Discomfort/Swelling,MILD
+Tongue movement disturbance,5,Tongue Irritation/Discomfort/Swelling,MILD
+Tongue spasm,5,Tongue Irritation/Discomfort/Swelling,MILD
+Swollen tongue,170,Tongue Irritation/Discomfort/Swelling,MILD
+Tongue ulceration,10,Tongue Irritation/Discomfort/Swelling,MILD
+Tongue blistering,15,Tongue Irritation/Discomfort/Swelling,MILD
+Axillary mass,100,Under Arm Mass,MILD
+Axillary pain,1010,Under Arm Pain,MILD
+Urinary retention,20,Urinary Discomfort,MILD
+Urinary incontinence,45,Urinary Discomfort,MILD
+Urinary tract infection,110,Urinary Discomfort,MILD
+Chromaturia,25,Urine Discoloration,MILD
+Vein rupture,5,Vein rupture,SEVERE
+Balance disorder,355,Vertigo,MILD
+Dizziness postural,75,Vertigo,MILD
+Dizziness,5365,Vertigo,MILD
+Vertigo positional,15,Vertigo,MILD
+Vertigo,195,Vertigo,MILD
+Haematemesis,20,Vomiting blood,MODERATE
+Asthenia,3955,Weakness,MILD
+Asthenopia,50,Weakness,MILD
+Ataxia,30,Weakness,MILD
+Bradykinesia,15,Weakness,MILD
+Bradyphrenia,10,Weakness,MILD
+Grip strength decreased,35,Weakness,MILD
+Wheezing,225,Wheezing,MILD
+Death,2680,,
+COVID-19,1400,,
+Blood test,1010,,
+SARS-CoV-2 test negative,685,,
+No adverse event,540,,
+SARS-CoV-2 test positive,410,,
+Incorrect dose administered,390,,
+SARS-CoV-2 test,335,,
+Chest X-ray,330,,
+Electrocardiogram,330,,
+Full blood count,325,,
+Computerised tomogram,315,,
+Angiogram,290,,
+Blood test normal,280,,
+Inappropriate schedule of product administration,280,,
+Metabolic function test,280,,
+Exposure during pregnancy,265,,
+Laboratory test,265,,
+Unevaluable event,265,,
+Abortion spontaneous,225,,
+Product administered to patient of inappropriate age,220,,
+Chest X-ray normal,210,,
+Magnetic resonance imaging,200,,
+Blood pressure measurement,180,,
+Blood glucose normal,175,,
+Fall,170,,
+White blood cell count increased,170,,
+Troponin increased,165,,
+Electrocardiogram normal,155,,
+Urine analysis,155,,
+Blood glucose,150,,
+Computerised tomogram head normal,140,,
+Chest X-ray abnormal,130,,
+Full blood count normal,130,,
+Echocardiogram,125,,
+Loss of personal independence in daily activities,125,,
+Activated partial thromboplastin time,120,,
+Computerised tomogram head,120,,
+Induration,120,,
+Interchange of vaccine products,115,,
+Alanine aminotransferase increased,110,,
+Alanine aminotransferase normal,105,,
+Laboratory test normal,105,,
+Blood creatinine increased,100,,
+Echocardiogram normal,100,,
+Electrocardiogram abnormal,100,,
+Acoustic stimulation tests abnormal,95,,
+Intensive care,95,,
+Metabolic function test normal,95,,
+Urine analysis normal,95,,
+Abnormal behaviour,90,,
+Angiogram cerebral normal,90,,
+Autopsy,90,,
+Endotracheal intubation,90,,
+Incorrect route of product administration,90,,
+Computerised tomogram normal,85,,
+COVID-19 pneumonia,85,,
+Angiogram cerebral,75,,
+Haemoglobin decreased,75,,
+Nervousness,75,,
+Platelet count decreased,75,,
+Blood pressure abnormal,70,,
+Blood potassium decreased,65,,
+Nodule,65,,
+Product preparation issue,65,,
+X-ray,65,,
+Acoustic stimulation tests,60,,
+Adverse reaction,60,,
+Blood culture negative,60,,
+Blood test abnormal,60,,
+Cardiac monitoring,60,,
+Computerised tomogram abnormal,60,,
+Exposure to SARS-CoV-2,60,,
+Extra dose administered,60,,
+Product administered at inappropriate site,60,,
+Troponin,60,,
+Troponin normal,60,,
+White blood cell count normal,60,,
+Anaemia,55,,
+Anal incontinence,55,,
+Blood culture,55,,
+Blood urea increased,55,,
+Blood pressure fluctuation,55,,
+Computerised tomogram abdomen,55,,
+Exposure via skin contact,55,,
+Feeling of body temperature change,55,,
+Influenza virus test negative,55,,
+Magnetic resonance imaging brain,55,,
+Neurological symptom,55,,
+Pleural effusion,55,,
+Scan with contrast,55,,
+Ultrasound Doppler,55,,
+Audiogram abnormal,50,,
+Blood thyroid stimulating hormone,50,,
+Blood lactic acid increased,50,,
+Blood urea normal,50,,
+Blood creatinine normal,50,,
+Blood glucose decreased,50,,
+Fibrin D dimer increased,50,,
+Haematocrit decreased,50,,
+Haemoglobin normal,50,,
+Investigation,50,,
+Magnetic resonance imaging normal,50,,
+Product storage error,50,,
+SARS-CoV-2 antibody test,50,,
+Sudden death,50,,
+Activated partial thromboplastin time normal,45,,
+Aggression,45,,
+Body height,45,,
+Computerised tomogram thorax,45,,
+C-reactive protein increased,45,,
+Cyanosis,45,,
+Haematocrit normal,45,,
+International normalised ratio,45,,
+Neuropathy peripheral,45,,
+Panic attack,45,,
+Adverse event,40,,
+Blood sodium decreased,40,,
+Blood sodium normal,40,,
+Blood potassium normal,40,,
+Cheilitis,40,,
+Device connection issue,40,,
+Influenza B virus test,40,,
+Magnetic resonance imaging brain abnormal,40,,
+Off label use,40,,
+Platelet count normal,40,,
+Pulse absent,40,,
+Transfusion,40,,
+Transient ischaemic attack,40,,
+Ultrasound scan,40,,
+Vaccination complication,40,,
+Weight decreased,40,,
+Acute myeloid leukaemia,35,,
+Allergy to vaccine,35,,
+Anger,35,,
+Asymptomatic COVID-19,35,,
+Bilevel positive airway pressure,35,,
+Blood chloride normal,35,,
+Blood calcium decreased,35,,
+Blood urine present,35,,
+Blood bilirubin normal,35,,
+Computerised tomogram abdomen abnormal,35,,
+Computerised tomogram thorax abnormal,35,,
+Echocardiogram abnormal,35,,
+Fibrin D dimer,35,,
+Glossodynia,35,,
+Guillain-Barre syndrome,35,,
+Lipids,35,,
+Product preparation error,35,,
+Red blood cell sedimentation rate normal,35,,
+Thrombocytopenia,35,,
+Activated partial thromboplastin time prolonged,30,,
+Angiogram normal,30,,
+Angiogram pulmonary normal,30,,
+Bedridden,30,,
+Blood calcium normal,30,,
+Blood lactic acid,30,,
+Blood chloride increased,30,,
+Blood creatine phosphokinase,30,,
+Brain natriuretic peptide increased,30,,
+Computerised tomogram head abnormal,30,,
+Electrocardiogram ambulatory,30,,
+Electroencephalogram,30,,
+Fear,30,,
+Feeding disorder,30,,
+Flank pain,30,,
+Glomerular filtration rate,30,,
+Glomerular filtration rate decreased,30,,
+Haematuria,30,,
+Hypopnoea,30,,
+Illness,30,,
+Liver function test,30,,
+Lumbar puncture,30,,
+Magnetic resonance imaging brain normal,30,,
+Magnetic resonance imaging abnormal,30,,
+Mean cell volume normal,30,,
+Oxygen therapy,30,,
+Product administration error,30,,
+Protein total normal,30,,
+Streptococcus test negative,30,,
+White blood cell count,30,,
+Accidental underdose,25,,
+Accidental overdose,25,,
+Acne,25,,
+Acute left ventricular failure,25,,
+Antibody test,25,,
+Basophil percentage,25,,
+Blood albumin decreased,25,,
+Blood potassium,25,,
+Blood creatine phosphokinase normal,25,,
+Blood gases,25,,
+Carbon dioxide normal,25,,
+Cardiovascular evaluation,25,,
+Computerised tomogram neck,25,,
+C-reactive protein,25,,
+C-reactive protein normal,25,,
+Disease recurrence,25,,
+Ischaemic stroke,25,,
+Liver function test increased,25,,
+Lymphocyte percentage decreased,25,,
+Magnetic resonance imaging spinal abnormal,25,,
+Oxygen saturation,25,,
+Pollakiuria,25,,
+Rales,25,,
+Red blood cell count decreased,25,,
+Scan with contrast abnormal,25,,
+Streptococcus test,25,,
+Stridor,25,,
+Syringe issue,25,,
+Tunnel vision,25,,
+Weight,25,,
+X-ray normal,25,,
+Abnormal loss of weight,20,,
+Activated partial thromboplastin time shortened,20,,
+Alanine aminotransferase,20,,
+Allergy test,20,,
+Angiogram abnormal,20,,
+Ankle fracture,20,,
+Anticoagulant therapy,20,,
+Biopsy skin,20,,
+Blood thyroid stimulating hormone normal,20,,
+Blood creatine phosphokinase increased,20,,
+Blood blister,20,,
+Blood magnesium,20,,
+Blood calcium,20,,
+Blood magnesium normal,20,,
+Blood chloride decreased,20,,
+Blood bilirubin increased,20,,
+Brain natriuretic peptide,20,,
+Breath sounds abnormal,20,,
+Carbon dioxide decreased,20,,
+Cardiac function test normal,20,,
+Cardiomegaly,20,,
+Catheter placement,20,,
+Computerised tomogram thorax normal,20,,
+Conjunctival haemorrhage,20,,
+Crying,20,,
+Culture urine negative,20,,
+Differential white blood cell count,20,,
+Electromyogram abnormal,20,,
+Epinephrine,20,,
+Hypoacusis,20,,
+Hypokalaemia,20,,
+Hyponatraemia,20,,
+Incoherent,20,,
+Incontinence,20,,
+Influenza A virus test negative,20,,
+International normalised ratio normal,20,,
+Laparoscopic surgery,20,,
+Livedo reticularis,20,,
+Local reaction,20,,
+Lumbar puncture normal,20,,
+Lymphocyte count normal,20,,
+Maternal exposure during breast feeding,20,,
+Mean cell haemoglobin concentration normal,20,,
+Mean platelet volume normal,20,,
+Menstruation irregular,20,,
+Nightmare,20,,
+Platelet count,20,,
+Pleuritic pain,20,,
+Product use issue,20,,
+Protein total decreased,20,,
+Pulseless electrical activity,20,,
+Rectal haemorrhage,20,,
+Scan with contrast normal,20,,
+Sinus congestion,20,,
+Subdural haematoma,20,,
+Trigeminal neuralgia,20,,
+Ultrasound abdomen abnormal,20,,
+Ultrasound Doppler normal,20,,
+Ultrasound scan abnormal,20,,
+Urine analysis abnormal,20,,
+Vaginal haemorrhage,20,,
+Walking aid user,20,,
+White blood cell count decreased,20,,
+Wrong product administered,20,,
+Abdominal X-ray,15,,
+Abnormal faeces,15,,
+Acidosis,15,,
+Adrenocortical insufficiency acute,15,,
+Agonal rhythm,15,,
+Ammonia increased,15,,
+Angiocardiogram,15,,
+Angiogram cerebral abnormal,15,,
+Angioplasty,15,,
+Anion gap,15,,
+Antibody test negative,15,,
+Antinuclear antibody positive,15,,
+Antinuclear antibody,15,,
+Areflexia,15,,
+Arteriogram coronary normal,15,,
+Arteriogram carotid abnormal,15,,
+Audiogram,15,,
+Autoimmune disorder,15,,
+Autoscopy,15,,
+Basophil count normal,15,,
+Biopsy,15,,
+Blister rupture,15,,
+Blood alkaline phosphatase increased,15,,
+Blood cholesterol increased,15,,
+Blood electrolytes,15,,
+Blood immunoglobulin G,15,,
+Blood albumin normal,15,,
+Blood potassium increased,15,,
+Blood pH decreased,15,,
+Blood magnesium decreased,15,,
+Blood lactic acid normal,15,,
+Blood lactic acid decreased,15,,
+Body temperature fluctuation,15,,
+Cardiac stress test,15,,
+Cardiac stress test normal,15,,
+Colonoscopy,15,,
+Complement factor C3,15,,
+Contraindication to vaccination,15,,
+Corneal reflex decreased,15,,
+CSF protein increased,15,,
+Culture urine,15,,
+Disability,15,,
+Drug hypersensitivity,15,,
+Dysuria,15,,
+Ejection fraction decreased,15,,
+Electrocardiogram T wave inversion,15,,
+Electrocardiogram ST segment elevation,15,,
+Electroencephalogram normal,15,,
+Enlarged uvula,15,,
+Eosinophil percentage increased,15,,
+Eosinophil percentage,15,,
+Eosinophil count normal,15,,
+Eosinophil count decreased,15,,
+Erectile dysfunction,15,,
+Fibrin D dimer normal,15,,
+Fluid intake reduced,15,,
+Generalised tonic-clonic seizure,15,,
+Glomerular filtration rate normal,15,,
+Haemolytic anaemia,15,,
+HIV test negative,15,,
+Hordeolum,15,,
+Immune thrombocytopenia,15,,
+Incorrect product formulation administered,15,,
+Influenza virus test,15,,
+Influenza,15,,
+Intervertebral disc protrusion,15,,
+Leukocytosis,15,,
+Lymphocyte count decreased,15,,
+Magnetic resonance imaging head,15,,
+Magnetic resonance imaging spinal,15,,
+Magnetic resonance imaging neck,15,,
+Magnetic resonance imaging heart,15,,
+Magnetic resonance imaging head abnormal,15,,
+Mean cell haemoglobin concentration,15,,
+Medication error,15,,
+Menorrhagia,15,,
+Menstrual disorder,15,,
+Metabolic encephalopathy,15,,
+Monocyte count increased,15,,
+Myelitis transverse,15,,
+Neurological examination,15,,
+Neutrophil percentage,15,,
+Neutrophil count increased,15,,
+No reaction on previous exposure to drug,15,,
+Osteoarthritis,15,,
+Panic reaction,15,,
+PCO2 increased,15,,
+pH urine normal,15,,
+Polymerase chain reaction,15,,
+Polyuria,15,,
+Prothrombin time,15,,
+Pulse abnormal,15,,
+Pupil fixed,15,,
+Purpura,15,,
+Rash maculo-papular,15,,
+Rash vesicular,15,,
+Red blood cell count normal,15,,
+Red blood cell sedimentation rate increased,15,,
+Refusal of treatment by patient,15,,
+Salivary hypersecretion,15,,
+Serum ferritin increased,15,,
+Sinus disorder,15,,
+Stent placement,15,,
+Sudden hearing loss,15,,
+Supraventricular tachycardia,15,,
+Systemic inflammatory response syndrome,15,,
+Therapeutic response unexpected,15,,
+Thrombectomy,15,,
+Troponin I normal,15,,
+Tryptase,15,,
+Ultrasound scan normal,15,,
+Ultrasound Doppler abnormal,15,,
+Underdose,15,,
+Vitamin B12 normal,15,,
+X-ray limb normal,15,,
+X-ray limb,15,,
+Acoustic stimulation tests normal,10,,
+Acute pulmonary oedema,10,,
+Acute cardiac event,10,,
+Acute coronary syndrome,10,,
+Acute disseminated encephalomyelitis,10,,
+Acute hepatic failure,10,,
+Acute motor-sensory axonal neuropathy,10,,
+Adenovirus test,10,,
+Adult failure to thrive,10,,
+Adverse event following immunisation,10,,
+Anal hypoaesthesia,10,,
+Angiogram retina,10,,
+Anion gap decreased,10,,
+Antiacetylcholine receptor antibody positive,10,,
+Antibiotic therapy,10,,
+Anti-cyclic citrullinated peptide antibody,10,,
+Antinuclear antibody negative,10,,
+Antiphospholipid antibodies positive,10,,
+Anti-thyroid antibody positive,10,,
+Aphthous ulcer,10,,
+Apnoea,10,,
+Appetite disorder,10,,
+Arthropod bite,10,,
+Aspartate aminotransferase increased,10,,
+Aura,10,,
+Autonomic nervous system imbalance,10,,
+Bacterial test positive,10,,
+Bacterial test,10,,
+Basal ganglia stroke,10,,
+Biopsy bone marrow,10,,
+Biopsy peripheral nerve,10,,
+Birth mark,10,,
+Bladder catheterisation,10,,
+Blood urea nitrogen/creatinine ratio increased,10,,
+Blood bicarbonate increased,10,,
+Blood bilirubin decreased,10,,
+Blood catecholamines,10,,
+Blood count,10,,
+Blood culture positive,10,,
+Blood electrolytes normal,10,,
+Blood ethanol normal,10,,
+Blood iron,10,,
+Blood folate normal,10,,
+Blood gases abnormal,10,,
+Blood glucose fluctuation,10,,
+Blood bilirubin,10,,
+Blood bicarbonate decreased,10,,
+Blood urea,10,,
+Blood alkaline phosphatase decreased,10,,
+Blood sodium increased,10,,
+Blood pressure systolic,10,,
+Blood pressure normal,10,,
+Blood pH normal,10,,
+Blood alkaline phosphatase normal,10,,
+Breast feeding,10,,
+Breath sounds normal,10,,
+Bundle branch block right,10,,
+Bundle branch block left,10,,
+Bundle branch block,10,,
+Caesarean section,10,,
+Carbon dioxide increased,10,,
+Cardiac telemetry abnormal,10,,
+Cardiac stress test abnormal,10,,
+Cardiac assistance device user,10,,
+Catheterisation cardiac normal,10,,
+Chapped lips,10,,
+Cholecystectomy,10,,
+Cholecystitis chronic,10,,
+Cholecystitis,10,,
+Circulatory collapse,10,,
+Circumstance or information capable of leading to medication error,10,,
+Colitis,10,,
+Colonoscopy abnormal,10,,
+Computerised tomogram pelvis,10,,
+Computerised tomogram pelvis abnormal,10,,
+Computerised tomogram spine,10,,
+Continuous positive airway pressure,10,,
+COVID-19 immunisation,10,,
+CSF culture negative,10,,
+CSF glucose normal,10,,
+Cubital tunnel syndrome,10,,
+Culture negative,10,,
+Culture,10,,
+Depression,10,,
+Diabetic ketoacidosis,10,,
+Diarrhoea haemorrhagic,10,,
+Differential white blood cell count normal,10,,
+Discharge,10,,
+Distributive shock,10,,
+Drainage,10,,
+Drooling,10,,
+Dysmenorrhoea,10,,
+Ecchymosis,10,,
+Electrocardiogram ST segment abnormal,10,,
+Electromyogram normal,10,,
+Endoscopy,10,,
+Exercise tolerance decreased,10,,
+Extrasystoles,10,,
+Fear of death,10,,
+Fear of disease,10,,
+Fluid retention,10,,
+Foetal heart rate abnormal,10,,
+Full blood count abnormal,10,,
+General physical health deterioration,10,,
+Generalised oedema,10,,
+Globulin,10,,
+Haemorrhoids,10,,
+Hemiplegia,10,,
+Hepatitis,10,,
+HIV test,10,,
+Hospitalisation,10,,
+Hyperglycaemia,10,,
+Hypoglycaemia,10,,
+Hypophagia,10,,
+Hyporesponsive to stimuli,10,,
+Hypotonia,10,,
+Immunisation,10,,
+Immunoglobulin therapy,10,,
+Immunology test,10,,
+Incomplete course of vaccination,10,,
+Infection,10,,
+Influenza virus test positive,10,,
+International normalised ratio increased,10,,
+Jaw disorder,10,,
+Left ventricular hypertrophy,10,,
+Legionella test,10,,
+Leukaemia,10,,
+Lipase normal,10,,
+Lower respiratory tract infection,10,,
+Lymphocyte percentage increased,10,,
+Lymphocyte percentage,10,,
+Lymphocyte count increased,10,,
+Magnetic resonance cholangiopancreatography,10,,
+Mean cell haemoglobin concentration decreased,10,,
+Mean cell haemoglobin decreased,10,,
+Mean cell haemoglobin normal,10,,
+Mechanical ventilation,10,,
+Metabolic function test abnormal,10,,
+Metrorrhagia,10,,
+Miliaria,10,,
+Moaning,10,,
+Monocyte percentage decreased,10,,
+Monocyte percentage,10,,
+Monocyte count normal,10,,
+Mononucleosis heterophile test negative,10,,
+Monoplegia,10,,
+Multiple sclerosis,10,,
+Mydriasis,10,,
+Near death experience,10,,
+Nerve compression,10,,
+Nervous system disorder,10,,
+Neurological examination normal,10,,
+Neutrophil percentage increased,10,,
+Neutrophil percentage decreased,10,,
+Neutrophil count normal,10,,
+Nitrite urine absent,10,,
+Noninfective encephalitis,10,,
+N-terminal prohormone brain natriuretic peptide increased,10,,
+Obstructive airways disorder,10,,
+Occipital neuralgia,10,,
+Ophthalmological examination abnormal,10,,
+Ophthalmological examination,10,,
+Orthopnoea,10,,
+Orthostatic hypotension,10,,
+Oxygen saturation abnormal,10,,
+Packed red blood cell transfusion,10,,
+Palatal disorder,10,,
+Pancytopenia,10,,
+Periarthritis,10,,
+Pericardial effusion,10,,
+Photopsia,10,,
+Physical examination,10,,
+Piloerection,10,,
+Pityriasis rosea,10,,
+Platelet transfusion,10,,
+Polymenorrhoea,10,,
+Poor peripheral circulation,10,,
+Poor quality sleep,10,,
+Postictal state,10,,
+Pregnancy test positive,10,,
+Pregnancy,10,,
+Procalcitonin increased,10,,
+Protein albumin ratio normal,10,,
+Protein C,10,,
+Protein urine absent,10,,
+Psychotic disorder,10,,
+Red blood cell count increased,10,,
+Red blood cells urine positive,10,,
+Rheumatoid factor,10,,
+SARS-CoV-2 antibody test positive,10,,
+SARS-CoV-2 antibody test negative,10,,
+Scratch,10,,
+Secretion discharge,10,,
+Sedation,10,,
+Shift to the left,10,,
+Sinus tachycardia,10,,
+Sinusitis,10,,
+Specific gravity urine normal,10,,
+Stress,10,,
+Sudden cardiac death,10,,
+Supraventricular extrasystoles,10,,
+Temperature intolerance,10,,
+Thyroid function test,10,,
+Torticollis,10,,
+Transient global amnesia,10,,
+Ultrasound skull,10,,
+Upper gastrointestinal haemorrhage,10,,
+Urine ketone body present,10,,
+Urine leukocyte esterase positive,10,,
+Urobilinogen urine,10,,
+Urosepsis,10,,
+Uterine dilation and curettage,10,,
+Uveitis,10,,
+Vasculitis,10,,
+Vibratory sense increased,10,,
+Vital signs measurement,10,,
+Vitamin B12,10,,
+Vitrectomy,10,,
+Wheelchair user,10,,
+Wrong technique in product usage process,10,,
+Wrong patient received product,10,,
+X-ray abnormal,10,,
+Glassy eyes,5,,
+Abnormal withdrawal bleeding,5,,
+Absence of immediate treatment response,5,,
+Acarodermatitis,5,,
+Acupuncture,5,,
+Acute febrile neutrophilic dermatosis,5,,
+Acute abdomen,5,,
+Acute leukaemia,5,,
+Acute psychosis,5,,
+Adjusted calcium,5,,
+Adjusted calcium increased,5,,
+Adrenal disorder,5,,
+Adverse drug reaction,5,,
+Affect lability,5,,
+Affective disorder,5,,
+Agnosia,5,,
+Airway patency device insertion,5,,
+Airway secretion clearance therapy,5,,
+Alanine aminotransferase decreased,5,,
+Albumin urine present,5,,
+Alcohol use,5,,
+Alcohol interaction,5,,
+Allen's test,5,,
+Allergy test negative,5,,
+Allergy to surgical sutures,5,,
+Amenorrhoea,5,,
+Amino acid level,5,,
+Ammonia,5,,
+Amylase increased,5,,
+Amylase,5,,
+Amyloidosis,5,,
+Anaemia macrocytic,5,,
+Anal pruritus,5,,
+Anal haemorrhage,5,,
+Angiotensin converting enzyme,5,,
+Anion gap increased,5,,
+Anisocytosis,5,,
+Anti factor Xa assay normal,5,,
+Antibody test positive,5,,
+Anticonvulsant drug level decreased,5,,
+Anti-cyclic citrullinated peptide antibody negative,5,,
+Anti-cyclic citrullinated peptide antibody positive,5,,
+Anti-muscle specific kinase antibody,5,,
+Antineutrophil cytoplasmic antibody increased,5,,
+Antineutrophil cytoplasmic antibody negative,5,,
+Antineutrophil cytoplasmic antibody positive,5,,
+Anti-NMDA antibody negative,5,,
+Antiphospholipid antibodies,5,,
+Antiviral treatment,5,,
+Apathy,5,,
+Apgar score normal,5,,
+Apnoeic attack,5,,
+Apparent life threatening event,5,,
+Aptyalism,5,,
+Arteriogram carotid,5,,
+Arteriogram carotid normal,5,,
+Arteriogram coronary abnormal,5,,
+Atypical mycobacterial infection,5,,
+Auditory disorder,5,,
+Auscultation,5,,
+Autoantibody positive,5,,
+Autoimmune demyelinating disease,5,,
+Autoimmune haemolytic anaemia,5,,
+Azotaemia,5,,
+Bacteraemia,5,,
+Bacterial sepsis,5,Sepsis,SEVERE
+Band neutrophil percentage decreased,5,,
+Band neutrophil percentage increased,5,,
+Barium swallow,5,,
+Basophil count decreased,5,,
+Basophil percentage increased,5,,
+Bed rest,5,,
+Beta haemolytic streptococcal infection,5,,
+Bilirubin urine,5,,
+Bilirubin conjugated increased,5,,
+Biopsy thyroid gland normal,5,,
+Biopsy small intestine,5,,
+Biopsy skin abnormal,5,,
+Biopsy colon,5,,
+Bladder pain,5,,
+Bladder cancer stage IV,5,,
+Blast cells,5,,
+Blast cell crisis,5,,
+Blepharitis,5,,
+Blood triglycerides increased,5,,
+Blood thyroid stimulating hormone increased,5,,
+Blood thyroid stimulating hormone decreased,5,,
+Blood sodium,5,,
+Blood smear test abnormal,5,,
+Blood pH increased,5,,
+Blood osmolarity normal,5,,
+Blood triglycerides normal,5,,
+Blood urea decreased,5,,
+Blood urine absent,5,,
+Blood osmolarity decreased,5,,
+Blood magnesium increased,5,,
+Blood ketone body,5,,
+Blood insulin,5,,
+Blood calcium increased,5,,
+Blood calcitonin normal,5,,
+Blood albumin increased,5,,
+Blood albumin,5,,
+Blood HIV RNA below assay limit,5,,
+Blood cannabinoids normal,5,,
+Blood chloride,5,,
+Blood cholesterol,5,,
+Blood cholesterol normal,5,,
+Blood copper normal,5,,
+Blood count abnormal,5,,
+Blood creatine phosphokinase MB increased,5,,
+Blood creatine phosphokinase abnormal,5,,
+Blood creatinine,5,,
+Blood creatinine abnormal,5,,
+Blood creatinine decreased,5,,
+Blood fibrinogen decreased,5,,
+Blood glucose abnormal,5,,
+Blood gonadotrophin,5,,
+Blood immunoglobulin A decreased,5,,
+Blood immunoglobulin E,5,,
+Blood immunoglobulin M normal,5,,
+Body height decreased,5,,
+Body mass index,5,,
+Body temperature normal,5,,
+Bone scan,5,,
+Borrelia test,5,,
+Borrelia test negative,5,,
+Brain stem infarction,5,,
+Brain injury,5,,
+Brain natriuretic peptide normal,5,,
+Brain oedema,5,,
+Burns second degree,5,,
+Caffeine consumption,5,,
+Candida infection,5,,
+Capillary fragility,5,,
+Carbon dioxide,5,,
+Cardiac pacemaker evaluation,5,,
+Cardiac telemetry,5,,
+Cardiac telemetry normal,5,,
+Cardiolipin antibody negative,5,,
+Cardiovascular examination,5,,
+Cast application,5,,
+Central nervous system lesion,5,,
+Cervical spinal stenosis,5,,
+Chemotherapy,5,,
+Cholelithiasis,5,,
+Chondritis,5,,
+Chorioretinopathy,5,,
+Circumoral oedema,5,,
+Clonus,5,,
+Clostridium difficile colitis,5,,
+Coagulation time,5,,
+Coagulation test normal,5,,
+Coagulopathy,5,,
+Colectomy,5,,
+Complement factor C4,5,,
+Concussion,5,,
+Contraindicated product administered,5,,
+Conversion disorder,5,,
+Cooling therapy,5,,
+Corneal graft rejection,5,,
+Corneal infiltrates,5,,
+Corneal oedema,5,,
+Cryptococcus test,5,,
+Crystal urine,5,,
+CSF pressure increased,5,,
+CSF red blood cell count positive,5,,
+CSF polymorphonuclear cell count increased,5,,
+CSF monocyte count decreased,5,,
+Culture positive,5,,
+Culture stool,5,,
+Culture throat,5,,
+Cystatin C increased,5,,
+Cystitis,5,,
+Cytogenetic analysis,5,,
+Cytology,5,,
+Cytomegalovirus test negative,5,,
+Decreased activity,5,,
+Dementia,5,,
+Dependence on respirator,5,,
+Depressed mood,5,,
+Device leakage,5,,
+Device dispensing error,5,,
+Diabetic foot,5,,
+Dialysis,5,,
+Diaphragmalgia,5,,
+Diaphragmatic paralysis,5,,
+Diaphragmatic spasm,5,,
+Differential white blood cell count abnormal,5,,
+Directional Doppler flow tests,5,,
+Disseminated intravascular coagulation,5,,
+Disturbance in social behaviour,5,,
+Diverticulitis,5,,
+Diverticulitis intestinal perforated,5,,
+Drug ineffective,5,,
+Drug interaction,5,,
+Drug screen,5,,
+Drug screen negative,5,,
+Duodenitis,5,,
+Dyslipidaemia,5,,
+Dystonia,5,,
+"Ear, nose and throat examination",5,,
+Eating disorder,5,,
+EGFR gene mutation,5,,
+EGFR status assay,5,,
+Ejection fraction,5,,
+Electric shock sensation,5,,
+Electrocardiogram QRS complex normal,5,,
+Electrocardiogram ST segment depression,5,,
+Electrocardiogram PR prolongation,5,,
+Electroencephalogram abnormal,5,,
+Electrophoresis protein normal,5,,
+Embolism venous,5,,
+Emotional distress,5,,
+Endoscopy abnormal,5,,
+Energy increased,5,,
+Enteral nutrition,5,,
+Enterovirus test negative,5,,
+Enzyme level test,5,,
+Eosinophil count increased,5,,
+Epstein-Barr virus antibody positive,5,,
+Eructation,5,,
+Escherichia urinary tract infection,5,,
+Euphoric mood,5,,
+Eustachian tube disorder,5,,
+Exercise test,5,,
+Expired product administered,5,,
+Exposure via breast milk,5,,
+Extraocular muscle paresis,5,,
+Extremity contracture,5,,
+Factor II mutation,5,,
+Failure to thrive,5,,
+Fear of injection,5,,
+Febrile convulsion,5,,
+Fluid replacement,5,,
+Foaming at mouth,5,,
+Foetal death,5,,
+Foetal exposure during pregnancy,5,,
+Foetal monitoring,5,,
+Foetal non-stress test abnormal,5,,
+Food allergy,5,,
+Food intolerance,5,,
+Frequent bowel movements,5,,
+Fungal disease carrier,5,,
+Fungal infection,5,,
+Gait deviation,5,,
+Gallbladder disorder,5,,
+General physical condition abnormal,5,,
+General physical condition normal,5,,
+Genital blister,5,,
+Genital herpes,5,,
+Genital pain,5,,
+Genitourinary symptom,5,,
+Gestational diabetes,5,,
+Globulins increased,5,,
+Glomerular filtration rate increased,5,,
+Glossitis,5,,
+Glycosylated haemoglobin normal,5,,
+Glycosylated haemoglobin,5,,
+Goitre,5,,
+Good syndrome,5,,
+Gout,5,,
+Gram stain,5,,
+Gram stain negative,5,,
+Granulocyte count,5,,
+Grunting,5,,
+Haematocrit increased,5,,
+Haematological malignancy,5,,
+Haematospermia,5,,
+Haemoglobin,5,,
+Hair disorder,5,,
+Heart rate normal,5,,
+Heavy menstrual bleeding,5,,
+Helicobacter test negative,5,,
+Hepatic enzyme increased,5,,
+Hepatitis viral test negative,5,,
+Hepatitis C test negative,5,,
+Hepatitis B test negative,5,,
+Hepatitis B surface antigen negative,5,,
+Hepatobiliary scan abnormal,5,,
+Hiccups,5,,
+High density lipoprotein increased,5,,
+High density lipoprotein decreased,5,,
+Hospice care,5,,
+Human chorionic gonadotropin,5,,
+Human chorionic gonadotropin negative,5,,
+Human rhinovirus test positive,5,,
+Hyperacusis,5,,
+Hyperbilirubinaemia,5,,
+Hyperlipidaemia,5,,
+Hypermetropia,5,,
+Hyperreflexia,5,,
+Hypertrophy,5,,
+Hypnopompic hallucination,5,,
+Hypocalcaemia,5,,
+Hypogeusia,5,,
+Hypomagnesaemia,5,,
+Hyporeflexia,5,,
+Hypothyroidism,5,,
+Hypovolaemia,5,,
+Hypovolaemic shock,5,,
+Hysterosalpingo-oophorectomy,5,,
+IIIrd nerve paralysis,5,,
+Imaging procedure,5,,
+Immature granulocyte percentage increased,5,,
+Immature granulocyte count increased,5,,
+Immune-mediated adverse reaction,5,,
+Immunosuppressant drug therapy,5,,
+Immunosuppression,5,,
+Incarcerated hernia,5,,
+Infarction,5,,
+Inflammatory marker test,5,,
+Inflammatory marker increased,5,,
+Infrequent bowel movements,5,,
+Inguinal hernia repair,5,,
+Initial insomnia,5,,
+Instillation site paraesthesia,5,,
+Intentional product use issue,5,,
+Intermittent claudication,5,,
+International normalised ratio decreased,5,,
+Interstitial lung disease,5,,
+Intervertebral disc degeneration,5,,
+Intervertebral disc space narrowing,5,,
+Intervertebral discitis,5,,
+Intestinal resection,5,,
+Intestinal obstruction,5,,
+Intestinal mass,5,,
+Intracranial aneurysm,5,,
+Intraductal papillary mucinous neoplasm,5,,
+Intraosseous access placement,5,,
+Intra-uterine contraceptive device removal,5,,
+Intraventricular haemorrhage,5,,
+Iridocyclitis,5,,
+Iron deficiency anaemia,5,,
+IVth nerve paralysis,5,,
+Jaundice,5,,
+Jaw fracture,5,,
+Laboratory test abnormal,5,,
+Lack of spontaneous speech,5,,
+Lactation disorder,5,,
+Lactic acidosis,5,,
+Lacunar infarction,5,,
+Large intestine polyp,5,,
+Laryngitis,5,,
+Left ventricular dysfunction,5,,
+Lid sulcus deepened,5,,
+Lipase increased,5,,
+Lipids normal,5,,
+Listless,5,,
+Liver function test abnormal,5,,
+Liver function test normal,5,,
+Liver injury,5,,
+Localised infection,5,,
+Low density lipoprotein increased,5,,
+Lower respiratory tract congestion,5,,
+Lumbar puncture abnormal,5,,
+Lymphocyte count,5,,
+Lymphoma,5,,
+Macule,5,,
+Magnetic resonance imaging spinal normal,5,,
+Malnutrition,5,,
+Mastitis,5,,
+Mastoid disorder,5,,
+Maternal exposure during pregnancy,5,,
+Maternal exposure before pregnancy,5,,
+May-Thurner syndrome,5,,
+Mean cell haemoglobin increased,5,,
+Medical device removal,5,,
+Medical induction of coma,5,,
+Meniere's disease,5,,
+Metastases to liver,5,,
+Metastatic neoplasm,5,,
+Microalbuminuria,5,,
+Micturition urgency,5,,
+Monocyte count decreased,5,,
+Monocyte percentage increased,5,,
+Mouth breathing,5,,
+Mouth haemorrhage,5,,
+Mucosa vesicle,5,,
+Multiple allergies,5,,
+Myasthenia gravis,5,,
+Mycobacterium tuberculosis complex test,5,,
+Myeloid leukaemia,5,,
+Myoclonus,5,,
+Myosclerosis,5,,
+Nail discolouration,5,,
+Narcolepsy,5,,
+Needle issue,5,,
+Neovascular age-related macular degeneration,5,,
+Nephrolithiasis,5,,
+Nerve conduction studies normal,5,,
+Nerve injury,5,,
+Neuralgic amyotrophy,5,,
+Neurological examination abnormal,5,,
+Neutrophil count abnormal,5,,
+Neutrophil count decreased,5,,
+Neutrophil toxic granulation present,5,,
+Neutrophilia,5,,
+NIH stroke scale,5,,
+Nitrite urine present,5,,
+Nodal rhythm,5,,
+Normocytic anaemia,5,,
+N-terminal prohormone brain natriuretic peptide,5,,
+Nucleated red cells,5,,
+Nystagmus,5,,
+Obsessive-compulsive disorder,5,,
+Oesophageal pain,5,,
+Oesophageal varices haemorrhage,5,,
+Omentectomy,5,,
+Open reduction of fracture,5,,
+Ophthalmic herpes zoster,5,,
+Optic neuritis,5,,
+Optical coherence tomography,5,,
+Osteitis,5,,
+Otorrhoea,5,,
+Papule,5,,
+Paranasal sinus discomfort,5,,
+Paranasal sinus hypersecretion,5,,
+Parkinson's disease,5,,
+Patient uncooperative,5,,
+PCO2 decreased,5,,
+Peak expiratory flow rate,5,,
+Pelvic venous thrombosis,5,,
+Pemphigoid,5,,
+Perfusion brain scan,5,,
+Perfusion brain scan normal,5,,
+Peritoneal fluid analysis abnormal,5,,
+Peroneal nerve palsy,5,,
+Phlebitis,5,,
+Photosensitivity reaction,5,,
+Physical examination abnormal,5,,
+Platelet count abnormal,5,,
+Platelet count increased,5,,
+Pleurisy,5,,
+Plicated tongue,5,,
+PO2 normal,5,,
+PO2 decreased,5,,
+Poisoning,5,,
+Polypectomy,5,,
+Post procedural haemorrhage,5,,
+Post-traumatic neck syndrome,5,,
+Postural orthostatic tachycardia syndrome,5,,
+Posture abnormal,5,,
+Posturing,5,,
+Pre-eclampsia,5,,
+Pregnancy test,5,,
+Pregnancy test negative,5,,
+Pregnancy test urine,5,,
+Premature labour,5,,
+Priapism,5,,
+Primary headache associated with sexual activity,5,,
+Procalcitonin,5,,
+Proctitis,5,,
+Product substitution,5,,
+Product dose omission issue,5,,
+Product leakage,5,,
+Product monitoring error,5,,
+Prohormone brain natriuretic peptide,5,,
+Prohormone brain natriuretic peptide increased,5,,
+Prostate cancer,5,,
+Prostate infection,5,,
+Protein urine,5,,
+Protein total increased,5,,
+Protein total,5,,
+Protein urine present,5,,
+Prothrombin time prolonged,5,,
+Prothrombin level,5,,
+Pruritus genital,5,,
+Pulmonary function test,5,,
+Punctate basophilia,5,,
+Pupillary light reflex tests abnormal,5,,
+Pupillary disorder,5,,
+Purulent discharge,5,,
+Pyelonephritis,5,,
+Radiculopathy,5,,
+Rash pustular,5,,
+Raynaud's phenomenon,5,,
+Reaction to preservatives,5,,
+Rectal examination abnormal,5,,
+Rectal tenesmus,5,,
+Red cell distribution width increased,5,,
+Red cell distribution width,5,,
+Red blood cells urine,5,,
+Red blood cell nucleated morphology present,5,,
+Refusal of vaccination,5,,
+Restless legs syndrome,5,,
+Retinal ischaemia,5,,
+Reversible cerebral vasoconstriction syndrome,5,,
+Road traffic accident,5,,
+Rosacea,5,,
+Salivary gland pain,5,,
+Salmonella test positive,5,,
+Scab,5,,
+Scan,5,,
+Scan bone marrow normal,5,,
+Scan thyroid gland,5,,
+Scar,5,,
+Scleral haemorrhage,5,,
+Screaming,5,,
+Sedative therapy,5,,
+Sensation of blood flow,5,,
+Serum ferritin decreased,5,,
+Shock symptom,5,,
+Shock,5,,
+Sinus arrhythmia,5,,
+Sinus rhythm,5,,
+Sinus headache,5,,
+Sinus bradycardia,5,,
+Sinus arrest,5,,
+Skin odour abnormal,5,,
+Slit-lamp tests abnormal,5,,
+Social avoidant behaviour,5,,
+Specialist consultation,5,,
+Specific gravity urine increased,5,,
+Spinal cord injury,5,,
+Spirometry,5,,
+Spleen scan normal,5,,
+Splenic artery aneurysm,5,,
+Splenic infarction,5,,
+Sputum increased,5,,
+Staphylococcus test negative,5,,
+Staphylococcus test positive,5,,
+Stillbirth,5,,
+Stoma site haemorrhage,5,,
+Stool analysis abnormal,5,,
+Streptococcus test positive,5,,
+Stress cardiomyopathy,5,,
+Subdural haemorrhage,5,,
+Suffocation feeling,5,,
+Sulphur dioxide test,5,,
+Sunburn,5,,
+Superficial vein prominence,5,,
+Surgery,5,,
+Suture insertion,5,,
+Synovitis,5,,
+Tendonitis,5,,
+Terminal ileitis,5,,
+Testicular pain,5,,
+Thalamic infarction,5,,
+Thrombophlebitis superficial,5,,
+Thyroid function test normal,5,,
+Thyroid disorder,5,,
+Thyroxine free decreased,5,,
+Thyroxine free normal,5,,
+Tic,5,,
+Time perception altered,5,,
+Tongue rough,5,,
+Tongue biting,5,,
+Tonic clonic movements,5,,
+Traumatic fracture,5,,
+Treatment noncompliance,5,,
+Treponema test negative,5,,
+Tri-iodothyronine free abnormal,5,,
+Troponin T normal,5,,
+Troponin I increased,5,,
+Troponin I,5,,
+Tympanometry,5,,
+Type IV hypersensitivity reaction,5,,
+Ultrasound breast normal,5,,
+Ultrasound bladder,5,,
+Ultrasound breast abnormal,5,,
+Ultrasound scan vagina,5,,
+Upper motor neurone lesion,5,,
+Ureterolithiasis,5,,
+Ureteroscopy,5,,
+Urethral pain,5,,
+Urinary occult blood positive,5,,
+Urinary hesitation,5,,
+Urine ketone body absent,5,,
+Urine output increased,5,,
+Urine leukocyte esterase,5,,
+Use of accessory respiratory muscles,5,,
+Uterine spasm,5,,
+Vaccination site streaking,5,,
+Vaccination site papule,5,,
+Vaccine positive rechallenge,5,,
+Varicella zoster virus infection,5,,
+Vena cava embolism,5,,
+Venogram abnormal,5,,
+Venogram,5,,
+Ventilation/perfusion scan,5,,
+Vestibular neuronitis,5,,
+Viral test,5,,
+Viral pericarditis,5,,
+Viral rash,5,,
+Viral test negative,5,,
+Visual acuity tests,5,,
+Visual field tests,5,,
+Vitamin D,5,,
+Vitamin D deficiency,5,,
+VIth nerve paralysis,5,,
+Vocal cord thickening,5,,
+Vomiting projectile,5,,
+Von Willebrand's factor antigen increased,5,,
+Vulvovaginal rash,5,,
+Vulvovaginal swelling,5,,
+Waist circumference increased,5,,
+Water pollution,5,,
+Weight increased,5,,
+Weight bearing difficulty,5,,
+White blood cells urine positive,5,,
+Whole body scan,5,,
+Withdrawal of life support,5,,
+X-ray of pelvis and hip,5,,

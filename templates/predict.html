@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Vaccine Side-Effect Predictor</title>
+  <!-- Boostrap -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/minty/bootstrap.min.css">
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+  <!--Favicon-->
+  <link rel="icon" href="static/images/favicon.png" type="image/x-icon">
+
+
+  <!-- ** Basic Page Needs ** -->
+  <meta charset="utf-8">
+  <title>Medic | Medical HTML Template</title>
+
+  <!-- ** Mobile Specific Metas ** -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Medical HTML Template">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+  <meta name="author" content="Themefisher">
+  <meta name="generator" content="Themefisher Medical HTML Template v1.0">
+
+  <!-- ** Plugins Needed for the Project ** -->
+  <!-- bootstrap -->
+  <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <!-- Slick Carousel -->
+  <link rel="stylesheet" href="plugins/slick/slick.css">
+  <link rel="stylesheet" href="plugins/slick/slick-theme.css">
+  <!-- FancyBox -->
+  <link rel="stylesheet" href="plugins/fancybox/jquery.fancybox.min.css">
+  <!-- fontawesome -->
+  <link rel="stylesheet" href="plugins/fontawesome/css/all.min.css">
+  <!-- animate.css -->
+  <link rel="stylesheet" href="plugins/animation/animate.min.css">
+  <!-- jquery-ui -->
+  <link rel="stylesheet" href="plugins/jquery-ui/jquery-ui.css">
+  <!-- timePicker -->
+  <link rel="stylesheet" href="plugins/timePicker/timePicker.css">
+
+  <!-- JS CLoud Chart -->
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-tag-cloud.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-jquery.min.js"></script>
+  <style>
+    #cloud {
+      width: 100%;
+      height: 90%;
+      padding-bottom: 5pt;
+    }
+
+    #result {
+      display: none;
+      padding: 0pt;
+      margin-bottom: 1pt;
+    }
+  </style>
+  <!-- JQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <!-- JS -->
+  <!-- <script type="text/javascript" src="static/js/class.js"></script> -->
+  <!-- <script type="text/javascript" src="static/js/logic.js"></script> -->
+</head>
+
+
+
+<body>
+
+  <!--header top-->
+  <div class="header-top">
+    <div class="container">
+      <div class="row align-items-center">
+      </div>
+    </div>
+  </div>
+  <!--header top-->
+
+  <!--Main Header-->
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarLinks"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarLinks">
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+          <li class="nav-item @@about">
+            <a class="nav-link" href="predict">Predictor</a>
+          </li>
+          <li class="nav-item @@service">
+            <a class="nav-link" href="explorer">Explorer</a>
+          </li>
+          <!-- <li class="nav-item @@gallery">
+            <a class="nav-link" href="viz-2.html">Viz 2</a>
+          </li> -->
+          <li class="nav-item @@team">
+            <a class="nav-link" href="team">Team</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!--End Main Header -->
+
+
+  <!--Main Header-->
+  <!-- <nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarLinks"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarLinks">
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html">Home</a>
+          </li>
+          <li class="nav-item @@about">
+            <a class="nav-link" href="predict.html">Predictor</a>
+          </li>
+          <li class="nav-item @@service">
+            <a class="nav-link" href="viz-1.html">Viz 1</a>
+          </li>
+          <li class="nav-item @@gallery">
+            <a class="nav-link" href="viz-2.html">Viz 2</a>
+          </li>
+          <li class="nav-item @@team">
+            <a class="nav-link" href="team.html">Team</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav> -->
+  <!--End Main Header -->
+
+  <!--Page Title-->
+  <section class="page-title text-center" style="background-image:url(static/images/background/3.jpg);">
+    <div class="container">
+      <div class="title-text">
+        <h1>Side Effect Predictor</h1>
+        <ul class="title-menu clearfix">
+          <li>
+            <a href="/">home &nbsp;/</a>
+          </li>
+          <li>Side Effect Predictor</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  <!--End Page Title-->
+
+
+  <!-- Section -->
+  <section class="section">
+    <div class="container">
+      <div class="row">
+
+        <!-- LEFT BOX -->
+        <div class="col-5">
+          <div class="section-title">
+            <h3>Predict<span> Your Side Effects</span></h3>
+            <p>Enter your information below to find how people like
+              you responded to the COVID-19 Vaccine.
+              Don't worry, we won't store your information.
+              (We don't even know how to do that.)</p>
+            <div class="card border-primary mb-3" style="max-width: 40rem;">
+
+              <div class="card-body">
+                <div class="row">
+                  <div class="col-md-6">
+
+                    <div class="form-group">
+                      <label class="col-form-label" for="age_group">Age Group</label>
+                      <select class='form-select' id="age_group" required>
+                        <option selected>Select Age</option>
+                        <option value="18-25">18-25</option>
+                        <option value="26-35">26-35</option>
+                        <option value="36-45">36-45</option>
+                        <option value="46-55">46-55</option>
+                        <option value="56-65">56-65</option>
+                        <option value="66-75">66-75</option>
+                        <option value="76-85">76-85</option>
+                        <option value="86-95">86-95</option>
+                        <option value="96 +">95 +</option>
+                      </select>
+                    </div>
+
+                    <div class="form-group">
+                      <label class="col-form-label" for="sex">Sex</label>
+                      <select class="form-select" id="sex" required>
+                        <option selected>Select Sex</option>
+                        <option value='M'>Male</option>
+                        <option value='F'>Female</option>
+                      </select>
+                    </div>
+
+                    <div class="form-group">
+                      <label class="col-form-label" for="vax_name">Vaccine</label>
+                      <select class="form-select" id="vax_name" required>
+                        <option selected>Select Vaccine Name</option>
+                        <option value="PFIZER">Pfizer</option>
+                        <option value="MODERNA">Moderna</option>
+                        <option value="JANSSEN">Johnson & Johnson</option>
+                      </select>
+                    </div>
+
+                    <div class="form-group">
+                      <label class="col-form-label" for="vax_dose">Dose</label>
+                      <select class="form-select" id="vax_dose">
+                        <option selected>Select Dose</option>
+                        <option value='1'>First</option>
+                        <option value='2'>Second</option>
+                      </select>
+                    </div>
+
+                  </div>
+
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label class="col-form-label" for="other_meds">Taking Other Medications?</label>
+                      <select class="form-select" id="other_meds">
+                        <option selected value='0'>No</option>
+                        <option value='1'>Yes</option>
+                      </select>
+                    </div>
+                    <div class="form-group">
+                      <label class="col-form-label" for="history">Notable Medical History?</label>
+                      <select class="form-select" id="history">
+                        <option selected value='0'>No</option>
+                        <option value='1'>Yes</option>
+                      </select>
+                    </div>
+                    <div class="form-group">
+                      <label class="col-form-label" for="prior_vax">Prior Vaccine Reaction?</label>
+                      <select class="form-select" id="prior_vax">
+                        <option selected value='0'>No</option>
+                        <option value='1'>Yes</option>
+                      </select>
+                    </div>
+                    <div class="form-group">
+                      <label class="col-form-label" for="allergies">Food or Material Allergies?</label>
+                      <select class="form-select" id="allergies">
+                        <option selected value='0'>No</option>
+                        <option value='1'>Yes</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <button type="button" class="btn btn-primary" id="filter">Predict Side-Effects!</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- RIGHT BOX -->
+        <div class="col-7">
+          <div id='pre-cloud'>
+            <div class="card" style="width: 100%;">
+              <img src="../static/images/gallery/consult.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">How Does it Work?</h5>
+                <p class="card-text"> Our algorithm uses data from nearly 20,000 people
+                  and their post-vaccination experiences. You tell the computer a bit of
+                  yourself, and the computer tells you how you might react based on what it knows.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="alert alert-info text-center" role="alert" id='result'>
+            Your side-effects will likely be: <h3 class="text-center" id="output"></h3>
+          </div>
+          <div id="cloud"></div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="row">
+          <div class='col-12'>
+            <div class="alert alert-warning" role="alert">
+              DISCLAIMER: THIS WEBSITE DOES NOT PROVIDE MEDICAL ADVICE
+              The information, including but not limited to, text, graphics,
+              images and other material contained on this website are for
+              informational purposes only. No material on this site is intended
+              to be a substitute for professional medical advice, diagnosis or
+              treatment. Always seek the advice of your physician or other
+              qualified health care provider with any questions you may have
+              regarding a medical condition or treatment and before undertaking
+              a new health care regimen, and never disregard professional medical
+              advice or delay in seeking it because of something you have read on
+              this website.
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+</body>
+
+<!-- script js -->
+<script src="static/js/class.js"></script>
+<!-- <script src="static/js/logic.js"></script> -->
+<!-- <script src="static/js/script.js"></script> -->
+
+</html>
