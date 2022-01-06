@@ -3,7 +3,7 @@
 
 <div id="top"></div>
 
-# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  COVID-19 Vaccine Side Effect Predict
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  COVID-19 Vaccine Side Effect Predictor
 
 
 <!-- <div align="center"> -->
