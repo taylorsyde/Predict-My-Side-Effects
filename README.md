@@ -8,7 +8,7 @@
 
 <!-- <div align="center"> -->
 
-###  [Vaccine Side-Effects Predictor](https://vaccine-side-effect-predictor.herokuapp.com/)
+###  [Vaccine Side-Effects Predictor](https://predict-my-side-effects.herokuapp.com/)
 
 
 ![CovidShot](https://github.com/taylorsyde/Predict-My-Side-Effects/blob/main/static/images/slider/slider_one.jpg)
