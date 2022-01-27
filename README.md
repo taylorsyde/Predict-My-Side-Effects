@@ -117,7 +117,7 @@ terms and learn about specific medical terminology associated with their predict
 ## **Machine Learning Model**
   
   * KNN to review and create list of associated side effect based on user input selections and output a word cloud of actual side effects
-  * Logistic Regression Model, return rate of 90% accuracy
+  * Logistic Regression Model, return rate of 87% accuracy
  
   ![image](Resources/KNN_image_output.png)  
       
