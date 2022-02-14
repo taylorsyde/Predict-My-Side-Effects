@@ -44,9 +44,7 @@ the adverse events that may be associated vaccinations world wide, including the
 
 ## **Inspiration and Motivation**
 
-Support individuals to understand what side effects they may experience from Covid Vaccination based on reported side effects from previous vaccine 
-administrations.  Our site uses machine learning to decipher the input from user shared data that includes vaccine manufacturer, age, prior known allergies, 
-medical history and gender.  The machine learning model predicts the possible side effects in the categories of "Mild", "Moderate", or "Severe" using the Logistic Regression model and the KNN model to determine possible side effects unique to each user. 
+Developed a web application to support individuals who seek to understand what side effects they may experience from a Covid-19 vaccination based on reported side effects from previous vaccine administrations. Our site uses machine learning and user input to predict how they will respond post-vaccination. The machine learning model predicts the possible side effects in the categories of "Mild", "Moderate", or "Severe" using the Logistic Regression model and the KNN model to determine possible side effects unique to each user. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
