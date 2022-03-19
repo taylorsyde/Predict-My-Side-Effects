@@ -8,10 +8,10 @@
 
 <!-- <div align="center"> -->
 
-###  [Vaccine Side-Effects Predictor](https://vaccine-side-effect-predictor.herokuapp.com/)
+###  [Vaccine Side-Effects Predictor](https://predict-my-side-effects.herokuapp.com/)
 
 
-![CovidShot](https://www.coe.int/documents/10518249/88399762/Covid-Vaccine/23edacee-ac47-953e-7c8d-012ec176c157?t=1611227091000)
+![CovidShot](https://github.com/taylorsyde/Predict-My-Side-Effects/blob/main/static/images/slider/slider_one.jpg)
 
 <br>
 
@@ -44,9 +44,7 @@ the adverse events that may be associated vaccinations world wide, including the
 
 ## **Inspiration and Motivation**
 
-Support individuals to understand what side effects they may experience from Covid Vaccination based on reported side effects from previous vaccine 
-administrations.  Our site uses machine learning to decipher the input from user shared data that includes vaccine manufacturer, age, prior known allergies, 
-medical history and gender.  The machine learning model predicts the possible side effects in the categories of "Mild", "Moderate", or "Severe" using the Logistic Regression model and the KNN model to determine possible side effects unique to each user. 
+Developed a web application to support individuals who seek to understand what side effects they may experience from a Covid-19 vaccination based on reported side effects from previous vaccine administrations. Our site uses machine learning and user input to predict how they will respond post-vaccination. The machine learning model predicts the possible side effects in the categories of "Mild", "Moderate", or "Severe" using the Logistic Regression model and the KNN model to determine possible side effects unique to each user. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -117,7 +115,7 @@ terms and learn about specific medical terminology associated with their predict
 ## **Machine Learning Model**
   
   * KNN to review and create list of associated side effect based on user input selections and output a word cloud of actual side effects
-  * Logistic Regression Model, return rate of 90% accuracy
+  * Logistic Regression Model, return rate of 87% accuracy
  
   ![image](Resources/KNN_image_output.png)  
       
