@@ -111,7 +111,7 @@ terms and learn about specific medical terminology associated with their predict
       
   * EDA
   
-    ![image](Resources/severity-by_age.png) 
+  ![image](Resources/severity_by_age.png) 
 
            
 <p align="right">(<a href="#top">back to top</a>)</p>
