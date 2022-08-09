@@ -86,7 +86,7 @@ terms and learn about specific medical terminology associated with their predict
 
 ![image (1)](https://user-images.githubusercontent.com/82190357/145183563-27e1b7f1-a28e-4401-9172-fcd23046e5f3.png)
 
-## **Data Clean UP** 
+## **Data Clean Up and EDA** 
   
   * ETL 
       
@@ -108,6 +108,10 @@ terms and learn about specific medical terminology associated with their predict
       * Previous Adverse reactions to Vaccines - Y/N 
       * Vaccine Type: Pfizer, Moderna, Janssen
       * Dose Series: First Dose or Second Dose
+      
+  * EDA
+  
+    ![image](Resources/severity-by_age.png) 
 
            
 <p align="right">(<a href="#top">back to top</a>)</p>
